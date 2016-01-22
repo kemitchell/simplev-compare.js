@@ -9,6 +9,11 @@
     "defence-cli": "^1.0.5",
     "replace-require-self": "^1.0.1"
   },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
   "license": "MIT",
   "repository": "kemitchell/simplev-compare.js",
   "scripts": {
